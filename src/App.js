@@ -55,7 +55,7 @@ function App() {
         <h1 className='text-xl text-black font-semibold font-mono'>Made by Gaurav Chandsi</h1>
       </a>
       <div className="content">
-        <h1 className=" text-center p-2 mb-2 text-4xl font-bold bg-gradient-to-r from-fuchsia-500 via-red-600 to-orange-400 inline-block text-transparent bg-clip-text">Instagram Reels Downloader</h1>
+        <h1 className=" text-center p-2 mb-2 text-4xl font-bold bg-gradient-to-r from-fuchsia-500 via-red-600 to-orange-400 inline-block text-transparent bg-clip-text">Instagram Reels And Youtube Video Downloader</h1>
 
         <input
           type="text"
